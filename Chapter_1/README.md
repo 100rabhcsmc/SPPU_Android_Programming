@@ -57,4 +57,12 @@ Android device (such as Phone, Contacts, Browser, etc.), as well as applications
 that you download and install from the Android Market. Any applications that
 you write are located at this laver
 
-<img src="demo.png">
+In Picture Avialble:
+1.Basic Building Block
+2.SDK Overview
+3.android Platform
+4.JDK(Java develoment kit)
+5.SDK(Software development kit)
+6.Android studio
+7.AVD(android virtual device)
+8.android emulator
